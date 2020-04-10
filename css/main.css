@@ -1,0 +1,146 @@
+.fondo{
+ background: url(../img/fondo.jpg);
+ color: white;
+}
+.textocon-imagen{
+    padding: 50px;
+    text-align: justify;
+    margin: 150px 300px 0px 120px;
+    color: white;
+    
+  }
+  
+.texto-boton{
+    display: flex;
+    align-items: center;
+    margin: 10px 100px 45px 20px;
+  }
+  .texto-boton p{
+    font-size: 20pt;
+      margin: 20px 300px 0px 130px;
+      padding: 20px;
+      display: inline-flexbox;
+      color: #626262;
+      font-family: nexa_regularregular;
+  }
+  .texto-boton button{
+    border: 2px solid #39c7ff;
+    padding: 20px;
+    font-family: nexa_regularregular;
+    color: #626262;
+    background-color: #fff;
+    font-size: 20px;
+  
+  }
+    .btn {
+      font-size: 14px;
+      font-weight: normal;
+      text-align: center;
+      white-space: nowrap;
+      background-image: none;
+      border: 1px solid transparent;
+      border-radius: 4px;
+  }
+  body{
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+  }
+  /*Quita el subrrayado en todos los enlaces ancla*/
+  a{
+    text-decoration: none;
+  }
+  .loquehacemos{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .desarrollo{
+    display: block;
+    padding: 40px;
+    border-radius: 4px;
+  }
+  .desarrollo img{
+    height:auto;
+    max-width:100%;
+  }
+  .desarrollo p{
+    color: #626262;
+    font-size: 11pt;
+    font-family: nexa_regularregular;
+  }
+  .sistemas{
+   
+    display: block;
+    padding: 35px;
+    border-radius: 4px;
+  }
+  .sistemas img{
+    height:auto;
+    max-width:64%;
+    position:center !important
+  }
+  .sistemas p{
+    color: #626262;
+    font-size: 11pt;
+    font-family: nexa_regularregular;
+  }
+  .aplicaciones{
+    display: block;
+    padding: 35px;
+    border-radius: 4px;
+  
+  }
+  .textobajoimagen{
+    display: block;
+    padding: 15px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+  }
+  .aplicaciones img{
+      max-width: 80%;
+      height: auto;
+  }
+  .aplicaciones p{
+    color: #626262;
+    font-size: 11pt;
+    font-family: nexa_regularregular;
+  }
+  .comolohacemos{
+    background:#39c7ff;
+  }
+  .tecnologiashtml{
+  
+    display: flex;
+  }
+  .imagenes{
+    display: flex;
+    background: #39c7ff;
+    padding: 14px;
+  }
+  .imagenes img{
+    padding: 0px;
+    max-width:6%;
+  }
+  .detodo{
+    display: flex;
+  }
+  .textocontelefono{
+    padding: 50px;
+  }
+  .color-white{
+    color: #fff;
+  }
+  .color-celeste{
+    background:#39c7ff;
+  }
+  .center{
+    text-align: center;
+  }
+  p{
+    margin: 0 0 10px;
+  }
+  .white{
+      color: white;
+  }
