@@ -97,6 +97,13 @@
     margin-bottom: 20px;
     line-height: 1.42857143;
     background-color: #fff;
+    font-size: 13pt;
+    font-family: 'nexa_regularregular';
+  }
+  .h3{
+    color: #626262;
+    font-size: 11pt;
+    font-family: 'nexa_regularregular';
   }
   .aplicaciones img{
       max-width: 80%;
