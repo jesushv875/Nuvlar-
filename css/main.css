@@ -149,19 +149,31 @@
   }
   .ultimo{
     display: flex;
-    
+    margin: 0px 15px;
+    padding: 15px 0px;
   }
+  
   .ultimo img{
     margin-left: 15px;
-  }
-  .redonda {
+    background: coral;
+    border-radius: 150px;
     width:300px;
     height:300px;
-    border-radius:150px;
-}
-
+    margin: 15px 3px 0px 90px;
+   }
 .texto{
-  padding: 11px 15px 0px;
+  padding: 50px 15px 0px;
+}
+.contacto{
+  display: flex;
+  justify-content: space-around;
+  background: #0F0F0F;
+}
+.pa{
+  padding: 15PX;
+}
+.color-gris{
+  color: #626262;
 }
 
   .color-white{
