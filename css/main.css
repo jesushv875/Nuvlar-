@@ -191,3 +191,47 @@
   .white{
       color: white;
   }
+  @media(min-width: 481px) and (max-width: 767px){
+    .fondo{
+      background:#39c7ff;
+      color: white;
+    }
+    .textocon-imagen{
+      text-align: start;
+      padding-right: 15px;
+      padding-left:15px ;
+      margin-right: auto;
+      margin-left: auto;
+      flex-direction: column;
+    }
+    .texto-boton{
+      flex-direction: column;
+      text-align: center;
+      }
+      .contenedor{
+        flex-direction: column;
+      }
+      .detodo{
+        flex-direction: column;
+      }
+      .contacto{
+        flex-direction: column;
+        text-align: center;
+
+      }
+      .ultimo{
+        flex-direction: column;
+        text-align: center;
+      }
+      .ultimo img{
+        object-position: center;
+        border-radius: 150px;
+        width:300px;
+        height:300px;
+        
+      }
+      .loquehacemos{
+        flex-direction: column;
+      }
+    
+  }
